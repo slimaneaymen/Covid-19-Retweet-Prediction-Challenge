@@ -1,0 +1,12 @@
+data/
+guides/
+baseline.py
+dummy_baseline.py
+*.txt
+*.ipynb
+*.ipynb_checkpoint
+__pycache__/
+
+mlp2.py
+figures/
+*.png
